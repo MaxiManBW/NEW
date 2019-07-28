@@ -1,1 +1,1 @@
-const div2Func = () => console.log('div2')
+const div2Func = (x, y) => console.log('div2 ' + 'x+y=' (x+y))
