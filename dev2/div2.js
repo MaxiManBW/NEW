@@ -1,0 +1,1 @@
+const div2Func = () => console.log('div2')
